@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 Tech Stack
+## 🖥️ Tech Stack
 
 - HTML5
 - CSS3
