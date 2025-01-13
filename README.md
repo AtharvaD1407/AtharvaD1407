@@ -3,27 +3,35 @@
 🔭 I’m currently working on mastering full-stack development, competitive programming, and building innovative projects. <br>
 🌱 I’m passionate about learning new technologies and contributing to open-source projects.
 
-
 ---
 
 ### 🛠️ Tech Stack
 - **Languages:**  
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) 
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-  ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-  ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" height="25"> 
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" height="25"> 
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" height="25"> 
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="25"> 
+  <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white" height="25"> 
+  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" height="25">
 
 - **Tools & Platforms:**  
-  ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white)
-  ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white)
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white" height="25"> 
+  <img src="https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white" height="25">
 
 ---
 
 ### 📊 GitHub Stats
-![Atharva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtharvaD1407&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaD1407&layout=compact&theme=radical)
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
