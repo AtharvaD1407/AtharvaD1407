@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Atharva Dhemare!
 
-🔭 I’m currently working on mastering full-stack development, competitive programming, and building innovative projects.
+🔭 I’m currently working on mastering full-stack development, competitive programming, and building innovative projects. <br>
 🌱 I’m passionate about learning new technologies and contributing to open-source projects.
 
 
