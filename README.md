@@ -30,6 +30,9 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaD1407&layout=compact&theme=radical" alt="Top Languages" />
     </td>
+    <td>
+      <img src="https://leetcode-stats-api.herokuapp.com/Atharva69" alt="Leetcode Stats" />
+    </td>
   </tr>
 </table>
 
