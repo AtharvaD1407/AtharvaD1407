@@ -35,5 +35,16 @@
 
 ---
 
+<div align="center">
+  <h2 style="display: inline;">LeetCode Stats</h2>
+  <span style="margin-left: 20px; font-weight: bolder; color: orange;">Atharva69</span>
+</div>
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Atharva69?theme=dark&font=Karma" alt="LeetCode Stats" />
+</div>
+
+---
+
 ### 📫 Connect with Me
 [![Email](https://img.shields.io/badge/-atharvadhemare@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:atharvadhemare@gmail.com)
