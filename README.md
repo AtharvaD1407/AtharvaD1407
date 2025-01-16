@@ -6,7 +6,8 @@
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:**  
+- **Languages:**
+  <br>  
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" height="25"> 
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" height="25"> 
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" height="25"> 
@@ -14,7 +15,8 @@
   <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white" height="25"> 
   <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" height="25">
 
-- **Tools & Platforms:**  
+- **Tools & Platforms:**
+  <br>  
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white" height="25"> 
   <img src="https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white" height="25">
 
