@@ -36,12 +36,11 @@
 ---
 
 <div align="center">
-  <h2 style="display: inline;">LeetCode Stats</h2>
-  <span style="margin-left: 20px; font-weight: bolder; color: orange;">Atharva69</span>
-</div>
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/Atharva69?theme=dark&font=Karma" alt="LeetCode Stats" />
+  <h2 style="color: #f4f4f4;">LeetCode Stats</h2>
+  <br>
+  <div>
+    <img src="https://leetcard.jacoblin.cool/Atharva69?theme=dark&font=Karma&ext=activity" alt="LeetCode Stats" style="border-radius: 10px; margin-top: 20px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);" />
+  </div>
 </div>
 
 ---
