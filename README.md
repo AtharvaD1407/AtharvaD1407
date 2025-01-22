@@ -14,11 +14,13 @@
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="25"> 
   <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white" height="25"> 
   <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" height="25">
 
 - **Tools & Platforms:**
   <br>  
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white" height="25"> 
   <img src="https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/-MySQL%20Workbench-007396?logo=mysql&logoColor=white" height="25">
 
 ---
 
