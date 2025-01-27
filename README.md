@@ -32,7 +32,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=AtharvaD1407&show_icons=true&theme=radical" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaD1407&layout=compact&theme=radical" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaD1407&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
     </td>
   </tr>
 </table>
