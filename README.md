@@ -21,6 +21,8 @@
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white" height="25"> 
   <img src="https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/-MySQL%20Workbench-007396?logo=mysql&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" height="25">
 
 ---
 
