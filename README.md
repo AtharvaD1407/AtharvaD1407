@@ -28,7 +28,7 @@
 
 ### 📊 GitHub Stats
 
-<table border="0" style="border-collapse: collapse; width: 100%; border: none;">
+<table style="border: none;">
   <tr>
     <td style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api?username=AtharvaD1407&show_icons=true&count_private=true&theme=dark&hide_border=false" alt="Github Stat's" />
