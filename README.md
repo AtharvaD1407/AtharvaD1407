@@ -28,13 +28,18 @@
 
 ### 📊 GitHub Stats
 
-<table>
+<table border="0" style="border-collapse: collapse; width: 100%; border: none;">
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=AtharvaD1407&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <td style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=AtharvaD1407&show_icons=true&count_private=true&theme=dark&hide_border=false" alt="Github Stat's" />
     </td>
-    <td>
+    <td style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaD1407&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtharvaD1407&theme=dark&hide_border=false" alt="Current Streak & Longest Streak" />
     </td>
   </tr>
 </table>
@@ -51,9 +56,19 @@
 
 ---
 
+<img src="https://github-profile-trophy.vercel.app/?username=AtharvaD1407&theme=radical&no-frame=false&no-bg=true&margin-w=4">
+
+---
+
 ## 📝 Blog Posts
 Check out my blog:
 - **[Coding a skill for Everyone](https://medium.com/@Atharva_Dhemare/coding-a-skill-for-everyone-c4f19b2e2ed2)**: "🌟Coding is for everyone—learn, create, and solve problems to unlock endless opportunities!"
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+</p>
 
 ---
 
