@@ -37,12 +37,11 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaD1407&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
     </td>
   </tr>
-  <tr>
-    <td style="border: none;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtharvaD1407&theme=dark&hide_border=false" alt="Current Streak & Longest Streak" />
-    </td>
-  </tr>
 </table>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtharvaD1407&theme=dark&hide_border=false" alt="Current Streak & Longest Streak" />
+</p>
 
 ---
 
@@ -66,7 +65,7 @@ Check out my blog:
 
 ---
 
-<p align="center">
+<p align="center" style="margin: 0;">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 </p>
 
