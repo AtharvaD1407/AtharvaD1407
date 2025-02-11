@@ -74,3 +74,5 @@ Check out my blog:
 ### 📫 Connect with Me
 [![Email](https://img.shields.io/badge/-atharvadhemare@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:atharvadhemare@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharva-dhemare/)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)](https://vercel.com/AtharvaD1407)
+
