@@ -1,11 +1,35 @@
-# Hi there 👋, I'm Atharva Dhemare!
+<p align="center">
+  <a href="#about-me">
+    <img src="https://img.shields.io/badge/About%20Me-blue?style=for-the-badge" />
+  </a>
+  <a href="#tech-stack">
+    <img src="https://img.shields.io/badge/Tech%20Stack-green?style=for-the-badge" />
+  </a>
+  <a href="#github-stats">
+    <img src="https://img.shields.io/badge/GitHub%20Stats-purple?style=for-the-badge" />
+  </a>
+  <a href="#leetcode-stats">
+    <img src="https://img.shields.io/badge/LeetCode%20Stats-orange?style=for-the-badge" />
+  </a>
+  <a href="#blog-posts">
+    <img src="https://img.shields.io/badge/Blog%20Posts-yellow?style=for-the-badge" />
+  </a>
+  <a href="#contact">
+    <img src="https://img.shields.io/badge/Contact-red?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+<h2 id="about-me">Hi there 👋, I'm Atharva Dhemare!</h2>
 
 🔭 I’m currently working on mastering full-stack development, competitive programming, and building innovative projects. <br>
 🌱 I’m passionate about learning new technologies and contributing to open-source projects.
 
 ---
 
-### 🛠️ Tech Stack
+<h2 id="tech-stack">🛠️ Tech Stack</h2>
+
 - **Languages:**
   <br>  
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" height="25"> 
@@ -26,9 +50,9 @@
 
 ---
 
-### 📊 GitHub Stats
+<h2 id="github-stats">📊 GitHub Stats</h2>
 
-<table style="border: none;">
+<table style="border: none;" align="center">
   <tr>
     <td style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api?username=AtharvaD1407&show_icons=true&count_private=true&theme=dark&hide_border=false" alt="Github Stat's" />
@@ -46,7 +70,7 @@
 ---
 
 <div align="center">
-  <h2 style="color: #f4f4f4;">LeetCode Stats</h2>
+  <h2 style="color: #f4f4f4;" id="leetcode-stats">LeetCode Stats</h2>
   <br>
   <div>
     <img src="https://leetcard.jacoblin.cool/Atharva69?theme=dark&font=Karma&ext=activity" alt="LeetCode Stats" style="border-radius: 10px; margin-top: 20px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);" />
@@ -59,7 +83,8 @@
 
 ---
 
-## 📝 Blog Posts
+<h2 id="blog-posts">📝 Blog Posts</h2>
+
 Check out my blog:
 - **[Coding a skill for Everyone](https://medium.com/@Atharva_Dhemare/coding-a-skill-for-everyone-c4f19b2e2ed2)**: "🌟Coding is for everyone—learn, create, and solve problems to unlock endless opportunities!"
 
@@ -71,7 +96,8 @@ Check out my blog:
 
 ---
 
-### 📫 Connect with Me
+<h2 id="contact">📫 Connect with Me</h2>
+
 [![Email](https://img.shields.io/badge/-atharvadhemare@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:atharvadhemare@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharva-dhemare/)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)](https://vercel.com/atharvad1407)
