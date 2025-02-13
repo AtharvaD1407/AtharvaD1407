@@ -1,21 +1,22 @@
+<!-- NAVIGATION BAR -->
 <p align="center">
   <a href="#about-me">
-    <img src="https://img.shields.io/badge/About%20Me-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/About%20Me-007BFF?style=for-the-badge&logo=readme&logoColor=white" />
   </a>
   <a href="#tech-stack">
-    <img src="https://img.shields.io/badge/Tech%20Stack-green?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Tech%20Stack-28A745?style=for-the-badge&logo=server&logoColor=white" />
   </a>
   <a href="#github-stats">
-    <img src="https://img.shields.io/badge/GitHub%20Stats-purple?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/GitHub%20Stats-6F42C1?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="#leetcode-stats">
-    <img src="https://img.shields.io/badge/LeetCode%20Stats-orange?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LeetCode%20Stats-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   <a href="#blog-posts">
-    <img src="https://img.shields.io/badge/Blog%20Posts-yellow?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Blog%20Posts-FFC107?style=for-the-badge&logo=medium&logoColor=black" />
   </a>
   <a href="#contact">
-    <img src="https://img.shields.io/badge/Contact-red?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Contact-DC3545?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
