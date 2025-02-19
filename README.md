@@ -32,25 +32,17 @@ Feel free to check out my repositories, and don’t hesitate to reach out if you
 
 ---
 
-<h2 id="tech-stack">🛠️ Tech Stack</h2>
+<h2 id="tech-stack">💻 Tech Stack</h2>
 
-- **Languages:**
-  <br>  
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" height="25"> 
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" height="25"> 
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" height="25"> 
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="25"> 
-  <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white" height="25"> 
-  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" height="25">
-
-- **Tools & Platforms:**
-  <br>  
-  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white" height="25"> 
-  <img src="https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/-MySQL%20Workbench-007396?logo=mysql&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" height="25">
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
