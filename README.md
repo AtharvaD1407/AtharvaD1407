@@ -20,8 +20,6 @@
   </a>
 </p>
 
-[![Profile views](https://img.shields.io/github/views/github/AtharvaD1407?color=blue)](https://github.com/AtharvaD1407)
-
 ---
 
 <h2 id="about-me">Hi there 👋, I'm Atharva Dhemare!</h2>
