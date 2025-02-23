@@ -22,7 +22,9 @@
 
 ---
 
-<h2 id="about-me">Hi there 👋, I'm Atharva Dhemare!</h2>
+<img src="Images/1.png" alt="Banner" width="100%">
+
+<h2 id="about-me"></h2>
 
 I’m an aspiring full-stack developer, currently pursuing **MBA Tech** in **Computer Engineering** at **NMIMS Navi Mumbai**. I’m passionate about learning both front-end and back-end development, and I enjoy working on web development, competitive programming, and creating projects that challenge me.
 
