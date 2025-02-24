@@ -24,6 +24,9 @@
   <a href="https://github.com/AtharvaD1407/AtharvaD1407/blob/main/Images/My%20Resume.pdf">
     <img src="https://img.shields.io/badge/My%20Resume-00FFFF?style=for-the-badge&logo=read-the-docs&logoColor=black" />
   </a>
+  <a href="https://komarev.com/ghpvc/?username=AtharvaD1407">
+    <img src="https://komarev.com/ghpvc/?username=AtharvaD1407&style=for-the-badge&color=blue" />
+  </a>
 </div>
 
 ---
