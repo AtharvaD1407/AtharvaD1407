@@ -1,4 +1,11 @@
-<!-- NAVIGATION BAR -->
+<div align="center">
+  <a href="https://github.com/AtharvaD1407/AtharvaD1407/blob/main/Images/My%20Resume.pdf">
+    <img src="https://img.shields.io/badge/My%20Resume-00FFFF?style=for-the-badge&logo=read-the-docs&logoColor=black" />
+  </a>
+</div>
+
+<br>
+
 <p align="center">
   <a href="#about-me">
     <img src="https://img.shields.io/badge/About%20Me-007BFF?style=for-the-badge&logo=readme&logoColor=white" />
@@ -21,11 +28,14 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/AtharvaD1407/AtharvaD1407/blob/main/Images/My%20Resume.pdf">
-    <img src="https://img.shields.io/badge/My%20Resume-00FFFF?style=for-the-badge&logo=read-the-docs&logoColor=black" />
+  <a href="https://github.com/AtharvaD1407?tab=followers">
+    <img src="https://img.shields.io/github/followers/AtharvaD1407?style=for-the-badge&color=blue" />
   </a>
   <a href="https://komarev.com/ghpvc/?username=AtharvaD1407">
     <img src="https://komarev.com/ghpvc/?username=AtharvaD1407&style=for-the-badge&color=blue" />
+  </a>
+  <a href="https://github.com/AtharvaD1407?tab=repositories">
+    <img src="https://img.shields.io/github/stars/AtharvaD1407?style=for-the-badge&color=blue" />
   </a>
 </div>
 
