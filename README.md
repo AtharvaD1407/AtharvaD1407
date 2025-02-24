@@ -90,7 +90,7 @@ Feel free to check out my repositories, and don’t hesitate to reach out if you
 
 <p align="center">
     <img src="https://leetcard.jacoblin.cool/Atharva69?theme=dark&font=Karma&ext=activity" alt="LeetCode Stats" width="400">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=atharva_69" alt="Codeforces Stats" width="400">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=atharva_69&theme=dark" alt="Codeforces Stats" width="400">
 </p>
 
 ---
