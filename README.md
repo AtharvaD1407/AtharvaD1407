@@ -16,8 +16,8 @@
   <a href="#github-stats">
     <img src="https://img.shields.io/badge/GitHub%20Stats-6F42C1?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="#leetcode-stats">
-    <img src="https://img.shields.io/badge/LeetCode%20Stats-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <a href="#coding-stats">
+    <img src="https://img.shields.io/badge/Coding%20Stats-F59E0B?style=for-the-badge&logo=stackoverflow&logoColor=white" />
   </a>
   <a href="#blog-posts">
     <img src="https://img.shields.io/badge/Blog%20Posts-FFC107?style=for-the-badge&logo=medium&logoColor=black" />
@@ -86,17 +86,18 @@ Feel free to check out my repositories, and don’t hesitate to reach out if you
 
 ---
 
-<div align="center">
-  <h2 style="color: #f4f4f4;" id="leetcode-stats">LeetCode Stats</h2>
-  <br>
-  <div>
-    <img src="https://leetcard.jacoblin.cool/Atharva69?theme=dark&font=Karma&ext=activity" alt="LeetCode Stats" style="border-radius: 10px; margin-top: 20px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);" />
-  </div>
-</div>
+<h2 align="center" id="coding-stats">LeetCode & Codeforces Stats</h2>
+
+<p align="center">
+    <img src="https://leetcard.jacoblin.cool/Atharva69?theme=dark&font=Karma&ext=activity" alt="LeetCode Stats" width="400">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=atharva_69" alt="Codeforces Stats" width="400">
+</p>
 
 ---
 
-<img src="https://github-profile-trophy.vercel.app/?username=AtharvaD1407&theme=radical&no-frame=false&no-bg=true&margin-w=4">
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AtharvaD1407&theme=radical&no-frame=false&no-bg=true&margin-w=4">
+</div>
 
 ---
 
@@ -120,9 +121,14 @@ Check out my blog:
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)](https://vercel.com/atharvad1407)
 [![Medium](https://img.shields.io/badge/-Medium-000000?logo=medium&logoColor=white)](https://medium.com/@Atharva-Dhemare)
 
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AtharvaD1407/AtharvaD1407/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AtharvaD1407/AtharvaD1407/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/AtharvaD1407/AtharvaD1407/output/github-snake.svg" />
 </picture>
+
+---
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=AtharvaD1407&theme=tokyo-night)
