@@ -53,6 +53,39 @@ Feel free to check out my repositories, and don’t hesitate to reach out if you
 
 ---
 
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+  
+  <!-- Project Card 1 -->
+  <a href="https://atharvad1407.github.io/FareSy/" target="_blank" style="width: 30%; margin: 10px; text-decoration: none; color: white; border: 1px solid #444; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.2); background-color: #333;">
+    <img src="https://via.placeholder.com/600x300" alt="Portfolio" style="width: 100%; height: auto; object-fit: cover;">
+    <div style="padding: 15px;">
+      <h3 style="margin: 0; font-size: 1.2em; color: #fff;">FareSy</h3>
+      <p style="font-size: 0.9em; color: #ccc;">Faresy shows the cheapest cab rides from multiple platforms, allowing direct bookings.</p>
+    </div>
+  </a>
+  
+  <!-- Project Card 2 -->
+  <a href="https://atharvad1407.github.io/MiniGameHub/" target="_blank" style="width: 30%; margin: 10px; text-decoration: none; color: white; border: 1px solid #444; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.2); background-color: #333;">
+    <img src="https://via.placeholder.com/600x300" alt="Task Manager" style="width: 100%; height: auto; object-fit: cover;">
+    <div style="padding: 15px;">
+      <h3 style="margin: 0; font-size: 1.2em; color: #fff;">MiniGameHub</h3>
+      <p style="font-size: 0.9em; color: #ccc;">Enjoy fun mini-games like Hangman, Guess the Number, and more!</p>
+    </div>
+  </a>
+
+  <!-- Project Card 3 -->
+  <a href="https://github.com/johndoe/weather-app" target="_blank" style="width: 30%; margin: 10px; text-decoration: none; color: white; border: 1px solid #444; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.2); background-color: #333;">
+    <img src="https://via.placeholder.com/600x300" alt="Weather App" style="width: 100%; height: auto; object-fit: cover;">
+    <div style="padding: 15px;">
+      <h3 style="margin: 0; font-size: 1.2em; color: #fff;">Weather App</h3>
+      <p style="font-size: 0.9em; color: #ccc;">A weather application built with vanilla JavaScript that uses the OpenWeather API.</p>
+    </div>
+  </a>
+
+</div>
+
+---
+
 <h2 id="tech-stack">💻 Tech Stack</h2>
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
