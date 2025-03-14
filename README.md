@@ -53,7 +53,7 @@ Feel free to check out my repositories, and don’t hesitate to reach out if you
 
 ---
 
-<h2 id="tech-stack"><img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="40px"> Tech Stack</h2>
+<h2 id="tech-stack"><img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="27px"> Tech Stack</h2>
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
