@@ -41,7 +41,7 @@
 
 ---
 
-<img src="Images/1.png" alt="Banner" width="100%">
+<img src="https://github.com/AtharvaD1407/AtharvaD1407/blob/main/Images/Purple%20Modern%20Geometric%20Graphic%20Designer%20LinkedIn%20Banner.gif" alt="Banner" width="100%">
 
 <h2 id="about-me"></h2>
 
