@@ -67,6 +67,7 @@ Feel free to check out my repositories, and don’t hesitate to reach out if you
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Java Swing](https://img.shields.io/badge/Java%20Swing-%23685199.svg?style=for-the-badge&logo=coffeescript&logoColor=white)
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 <h2>💻 Text Editors</h2>
 
