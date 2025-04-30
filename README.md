@@ -68,6 +68,15 @@ Feel free to check out my repositories, and don’t hesitate to reach out if you
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Java Swing](https://img.shields.io/badge/Java%20Swing-%23685199.svg?style=for-the-badge&logo=coffeescript&logoColor=white)
 
+<h2>💻 Text Editors</h2>
+
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-%23019733.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-%235A8CC8.svg?style=for-the-badge&logo=rstudio&logoColor=white)
+
 ---
 
 <h2 id="github-stats">📊 GitHub Stats</h2>
