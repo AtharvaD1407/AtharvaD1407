@@ -2,6 +2,9 @@
   <a href="https://github.com/AtharvaD1407/AtharvaD1407/blob/main/Images/My%20Resume.pdf">
     <img src="https://img.shields.io/badge/My%20Resume-00FFFF?style=for-the-badge&logo=read-the-docs&logoColor=black" />
   </a>
+  <a href="https://AtharvaD1407.github.io">
+    <img src="https://img.shields.io/badge/My%20Portfolio-008080?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
 
 <br>
