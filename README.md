@@ -48,9 +48,7 @@
 
 <h2 id="about-me"></h2>
 
-I’m an aspiring full-stack developer, currently pursuing **MBA Tech** in **Computer Engineering** at **NMIMS Navi Mumbai**. I’m passionate about learning both front-end and back-end development, and I enjoy working on web development, competitive programming, and creating projects that challenge me.
-
-I’m always looking to learn new technologies and contribute to open-source projects. My goal is to grow my skills and apply them to real-world projects that make a difference.
+**Third-year** **MBA Tech** student in **Computer Engineering** at **NMIMS**, **Navi Mumbai**, with knowledge of full-stack development and DSA. Currently focusing on machine learning and AI, and passionate about applying data-driven approaches to solve real-world problems.
 
 Feel free to check out my repositories, and don’t hesitate to reach out if you'd like to collaborate or discuss ideas!
 
