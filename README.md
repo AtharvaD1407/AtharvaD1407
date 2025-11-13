@@ -44,8 +44,6 @@
 
 ---
 
-<img src="https://github.com/AtharvaD1407/AtharvaD1407/blob/main/Images/Purple%20Modern%20Geometric%20Graphic%20Designer%20LinkedIn%20Banner.gif" alt="Banner" width="100%"> 
-
 <h2 id="about-me"></h2>
 
 **Third-year** **MBA Tech** student in **Computer Engineering** at **NMIMS**, **Navi Mumbai**, with knowledge of full-stack development and DSA. Currently focusing on machine learning and AI, and passionate about applying data-driven approaches to solve real-world problems.
