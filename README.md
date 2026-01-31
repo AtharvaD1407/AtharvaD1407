@@ -7,10 +7,15 @@
   </a>
 </div>
 
-<br>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Hi, I'm Atharva 👋" />
+<p align="center"> 
+  <a href="#about-me"> 
+    <img src="https://img.shields.io/badge/About%20Me-007BFF?style=for-the-badge&logo=readme&logoColor=white" /> </a> 
+  <a href="#tech-stack"> 
+    <img src="https://img.shields.io/badge/Tech%20Stack-28A745?style=for-the-badge&logo=server&logoColor=white" /> </a> 
+  <a href="#blog-posts"> 
+    <img src="https://img.shields.io/badge/Blog%20Posts-FFC107?style=for-the-badge&logo=medium&logoColor=black" /> </a> 
+  <a href="#contact"> 
+    <img src="https://img.shields.io/badge/Contact-DC3545?style=for-the-badge&logo=gmail&logoColor=white" /> </a> 
 </p>
 
 <h2 id="about-me">🙋‍♂️ About Me</h2>
