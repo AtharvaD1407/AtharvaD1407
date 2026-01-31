@@ -10,31 +10,16 @@
 <br>
 
 <p align="center">
-  <a href="#about-me">
-    <img src="https://img.shields.io/badge/About%20Me-007BFF?style=for-the-badge&logo=readme&logoColor=white" />
-  </a>
-  <a href="#tech-stack">
-    <img src="https://img.shields.io/badge/Tech%20Stack-28A745?style=for-the-badge&logo=server&logoColor=white" />
-  </a>
-  <a href="#blog-posts">
-    <img src="https://img.shields.io/badge/Blog%20Posts-FFC107?style=for-the-badge&logo=medium&logoColor=black" />
-  </a>
-  <a href="#contact">
-    <img src="https://img.shields.io/badge/Contact-DC3545?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?
+  font=Fira+Code&
+  size=40&
+  pause=1000&
+  color=ffffff&
+  center=true&
+  vCenter=true&
+  width=500&
+  lines=Hi, I'm Atharva 👋" />
 </p>
-
-<div align="center">
-  <a href="https://github.com/AtharvaD1407?tab=followers">
-    <img src="https://img.shields.io/github/followers/AtharvaD1407?style=for-the-badge&color=blue" />
-  </a>
-  <a href="https://komarev.com/ghpvc/?username=AtharvaD1407">
-    <img src="https://komarev.com/ghpvc/?username=AtharvaD1407&style=for-the-badge&color=blue" />
-  </a>
-  <a href="https://github.com/AtharvaD1407?tab=repositories">
-    <img src="https://img.shields.io/github/stars/AtharvaD1407?style=for-the-badge&color=blue" />
-  </a>
-</div>
 
 <h2 id="about-me">🙋‍♂️ About Me</h2>
 
