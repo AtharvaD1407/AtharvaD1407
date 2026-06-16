@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/AtharvaD1407/AtharvaD1407/blob/main/Images/My%20Resume.pdf">
+  <a href="https://github.com/AtharvaD1407/AtharvaD1407/blob/main/Images/Atharva_Dhemare.pdf">
     <img src="https://img.shields.io/badge/My%20Resume-00FFFF?style=for-the-badge&logo=read-the-docs&logoColor=black" />
   </a>
   <a href="https://atharvad1407.github.io/My-Portfolio/">
